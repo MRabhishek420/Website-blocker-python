@@ -1,4 +1,4 @@
-# Website-blocker-python
+# Website-ad-blocker-python
 Website Blocker Python
 
 Intro
